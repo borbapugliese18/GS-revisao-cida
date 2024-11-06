@@ -1,0 +1,1 @@
+INSERT INTO tb_vendedor(nome, email) VALUES('Nicodemus C Souza', 'aaaaa@balbla.com');
